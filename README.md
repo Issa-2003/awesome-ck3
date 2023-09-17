@@ -1,5 +1,7 @@
 # Awesome CK3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> GHelp Me
+
 > A list of resources for modding CK3 as well as a wiki to help CK3 modding
 
 - [Wiki](#wiki)
